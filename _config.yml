@@ -62,7 +62,7 @@ plugins:
 author:
   name   : Jonathan Tsui
   avatar : "/assets/images/displaypic.jpeg" #"/assets/images/bio-photo.jpg"
-  bio    : "A place to share random things I've learned. Hope this can be helpful to you."
+  bio    : "Network Infrastructure Engineer."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
