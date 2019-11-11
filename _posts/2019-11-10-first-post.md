@@ -1,5 +1,5 @@
 ---
-title: "First post! Origin Story"
+title: "Where the blog begins..."
 date: 2019-11-10T15:34:30-04:00
 categories:
   - personal
