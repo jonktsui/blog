@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: #barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
