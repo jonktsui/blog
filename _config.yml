@@ -34,7 +34,7 @@ paginate_path: /page:num/
 timezone: America/Toronto
 
 baseUrl: /blog
-repository: blog/jonktsui.github.io
+repository: jonktsui/blog
 
 include:
   - _pages
