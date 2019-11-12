@@ -15,4 +15,4 @@ Ironically as soon as I got everything setup to start writing about something...
 
 For now, enjoy a picture of a Sleepy Murdoch!
 
-![Murdoch Ded](2019-11-10-murdochded.jpeg)
+![Murdoch Ded](/blog/assets/images/2019-11-10-murdochded.jpeg)
