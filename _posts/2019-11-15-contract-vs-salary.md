@@ -1,6 +1,6 @@
 ---
 title: "How I started in the Contract life"
-date: 2019-11-13T15:34:30-04:00
+date: 2019-11-15T15:34:30-04:00
 categories:
   - personal
 tags:
