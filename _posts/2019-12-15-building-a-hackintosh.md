@@ -50,9 +50,11 @@ Couple places to look to see if your hardware is compatible with being a hackint
 - Must be ***8+ GB*** as you'd need to have MacOS on the drive
 
 If you see it stuck at "Still waiting for root device", it is likely a USB 3 related issue
+
 ![USB3 Error](/blog/assets/images/2019-12-15-hackintosh-usb3error.jpg)
 
 When formatting the USB, ensure you're not just formatting the Volume, but the entire drive.
+
 ![Format Drives](/blog/assets/images/2019-12-15-hackintosh-showalldevices.png)
 
 
