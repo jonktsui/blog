@@ -6,6 +6,10 @@ categories:
 tags:
   - hackintosh
   - macos
+  - gigabyte z370n
+  - i7-8700k
+  - 0.5.6
+  - opencore
 ---
 
 ## Introduction
@@ -75,9 +79,9 @@ When formatting the USB, ensure you're not just formatting the Volume, but the e
 
 
 [reddithack]: https://www.reddit.com/r/hackintosh/
-[VanillaGuide]: https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/
+[VanillaGuide]: https://dortania.github.io/OpenCore-Desktop-Guide/
 [DiscordURL]: https://discord.gg/u8V7N5C
-[OCGuide]: https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/
+[OCGuide]: https://dortania.github.io/OpenCore-Desktop-Guide/
 [SSDTime]: https://github.com/corpnewt/SSDTTime
 [GenSMBIOS]: https://github.com/corpnewt/GenSMBIOS
 [ProperTree]: https://github.com/corpnewt/ProperTree
@@ -85,6 +89,6 @@ When formatting the USB, ensure you're not just formatting the Volume, but the e
 [CorpGithub]: https://github.com/corpnewt?tab=repositories
 [HackSlav]: https://www.reddit.com/user/dracoflar/
 [USBMap]: https://github.com/corpnewt/USBMap
-[WifiCards]: https://khronokernel-7.gitbook.io/wireless-buyers-guide/
+[WifiCards]: https://dortania.github.io/Wireless-Buyers-Guide/
 [HWGuide]: https://www.reddit.com/r/hackintosh/wiki/faq#wiki_ok.21_i_fulfil_some_points.2C_what_now.3F
-[Antibuyer]:https://github.com/khronokernel/Anti-Hackintosh-Buyers-Guide/blob/master/README.md
+[Antibuyer]:https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/
