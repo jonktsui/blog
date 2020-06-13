@@ -23,9 +23,9 @@ Also found someone with the same motherboard and followed their [BIOS configurat
 ## Honourable mention
 A _**HUGE**_ thank you to [CrytoTV][crytotvchannel] for helping with the entire build process! Check out the [build video link][livestreambuild] and also visit his channel for live streams of games, tech, and more!
 
-![builditems](/assets/images/2020-06-15-build-components.jpg)
+![builditems](/blog/assets/images/2020-06-15-build-components.jpg)
 
-![Night Pic](/assets/images/2020-06-15-night-pic.jpg)
+![Night Pic](/blog/assets/images/2020-06-15-night-pic.jpg)
 
 ## Hardware
 
@@ -43,7 +43,7 @@ I did **NOT** replace my wireless card as I didn't purchase a card that would fi
    [Video Card] [Sapphire Radeon RX 580 8 GB NITRO+ Video Card]
  [Power Supply] [Corsair SF 600 W 80+ Platinum Certified Fully Modular SFX Power Supply]
 ```
-![neofetch](/assets/images/2020-06-15-neofetch.jpeg)
+![neofetch](/blog/assets/images/2020-06-15-neofetch.jpeg)
 
 #### What Works
 - Sleep / Wake
