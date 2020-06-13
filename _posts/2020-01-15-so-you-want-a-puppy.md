@@ -12,14 +12,14 @@ tags:
 ## Introduction
 Murdoch is a purebred Tri-Coloured Pembroke Welsh Corgi. He is the first puppy we've owned where we are solely responsible for him and not our "family" dog.
 
-![Going Home for the first time](/assets/images/2020-01-15-murdoch1.png)
+![Going Home for the first time](/blog/assets/images/2020-01-15-murdoch1.png)
 
 It has definitely been an interesting journey so far. At the time of writing, we have had Murdoch for exactly one year. He's been a fantastic pup, super faster learner but still requires a bit of behaviour training.
 
 ## Why a Corgi?
 Originally I wanted to get a Husky cause I thought they were cool. My wife however, wanted a Corgi instead. I hadn't considered Corgi's before so I went and did some research about them. After figuring out the pro's and con's about their potential health issues and how to mitigate them, behaviour traits, etc., I was happy to move forward with a Corgi as well.
 
-![Sink Washing](/assets/images/2020-01-15-murdoch2.png)
+![Sink Washing](/blog/assets/images/2020-01-15-murdoch2.png)
 
 ### Things I liked about a Corgi
 - Stubby legs
