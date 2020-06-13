@@ -131,20 +131,20 @@ If you would like to take money out of the corporate to use at your leisure, you
 ## Random tidbits of information
 
 1. Always, always, always **GET A GOOD ACCOUNTANT**.
-  1. Finding a good accountant will really help with tax planning as well as how to manage your expenses and understand what can be claimed and what can't be claimed for tax benefits.
-  2. Make sure your accountant will maximize the benefits of having your own corporation but not abuse system potentially triggering a CRA audit. That's an annoyance you never want to deal with.
+    1. Finding a good accountant will really help with tax planning as well as how to manage your expenses and understand what can be claimed and what can't be claimed for tax benefits.
+    2. Make sure your accountant will maximize the benefits of having your own corporation but not abuse system potentially triggering a CRA audit. That's an annoyance you never want to deal with.
 2. There are two ways to setup your corporation:
-  1. DIY on [Corporation Canada Website][CorporationCanada]. Typically costs around $200-250 + Corporation Name fee (if you want a [custom name][NuansCanada] and not a numbered corporation)
-  2. Accountant will be able to help you. Typically Costs around $1,000
+    1. DIY on [Corporation Canada Website][CorporationCanada]. Typically costs around $200-250 + Corporation Name fee (if you want a [custom name][NuansCanada] and not a numbered corporation)
+    2. Accountant will be able to help you. Typically Costs around $1,000
 3. Ways to pay yourself
-  1. Salary
-    1. This should be the safest way to pay yourself on a regular basis. You do have to pay personal income taxes but it is generally more reasonable in the CRA's view.
-  2. Dividend
-    1. This is the most tax advantageous way to pay yourself. This is also riskier in terms of being audited by the CRA.
-    2. At the time of writing, you can pay yourself a dividend of around $50,000 "tax free" assuming no other sources of personal income. Financial Post had written an [article][FPDividend] on this a while back. (Again, please consult your accountant for further details)
+    1. Salary
+        1. This should be the safest way to pay yourself on a regular basis. You do have to pay personal income taxes but it is generally more reasonable in the CRA's view.
+    2. Dividend
+        1. This is the most tax advantageous way to pay yourself. This is also riskier in terms of being audited by the CRA.
+        2. At the time of writing, you can pay yourself a dividend of around $50,000 "tax free" assuming no other sources of personal income. Financial Post had written an [article][FPDividend] on this a while back. (Again, please consult your accountant for further details)
 4. Build and host your static website for free!
-  1. Some free website templates [here][html5up]
-  2. Host it for free on [Netlify][Netlify]
+    1. Some free website templates [here][html5up]
+    2. Host it for free on [Netlify][Netlify]
 
 
 ## Additional Readings/Important links
