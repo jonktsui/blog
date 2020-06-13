@@ -12,8 +12,6 @@ tags:
   - opencore
 ---
 
-
-
 ## Introduction
 Originally I wasn't planning on upgrading so soon, but one of my siblings became in need of a computer so I had decided to do an upgrade of a few parts. Check out my [previous build][Previous Build] for hardware specs and some basic troubleshooting.
 
