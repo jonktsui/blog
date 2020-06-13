@@ -8,8 +8,6 @@ tags:
   - puppy
 ---
 
-
-## Introduction
 Murdoch is a purebred Tri-Coloured Pembroke Welsh Corgi. He is the first puppy we've owned where we are solely responsible for him and not our "family" dog.
 
 ![Going Home for the first time](/blog/assets/images/2020-01-15-murdoch1.png)
