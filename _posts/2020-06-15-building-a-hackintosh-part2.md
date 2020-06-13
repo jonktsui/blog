@@ -74,7 +74,13 @@ Major kudo's to [HackSlav][HackSlav] and the other contributors to writing up th
 - [USBMap][USBMap] - Corp's Script to create SSDT and Map the USB Ports (ensuring under the 15 port limit)
 - The Reddit page ([r/hackintosh][reddithack]) as well as the Discord channel (link in Reddit page) has been very helpful.
 
-# EFI Folder structure
+# EFI
+
+[EFI Here](https://github.com/jonktsui/hackintosh)
+
+**Note:** my serial #'s have been removed
+
+## Folder structure
 
 ```
 /EFI/
