@@ -63,15 +63,6 @@ Followed the [Fixing En0 guide][fixen0] and was back up and running upon the nex
 Major kudo's to [HackSlav][HackSlav] and the other contributors to writing up the documentation.
 
 
-
-## Helpful Links/Resources
-- [GenSMBIOS][GenSMBIOS] - Corp's script to generate SMBIOS, serial #, etc.
-- [OpenCore Vanilla Guide][OCGuide] written by [u/dracoflar][HackSlav] based on Corp's Guide
-- [ProperTree][ProperTree] - Corp's application to edit OpenCore config.plist with EXTREME ease
-- [SSDTime][SSDTime] - Corp's Script to create SSDT's
-- [USBMap][USBMap] - Corp's Script to create SSDT and Map the USB Ports (ensuring under the 15 port limit)
-- The Reddit page ([r/hackintosh][reddithack]) as well as the Discord channel (link in Reddit page) has been very helpful.
-
 ## EFI
 
 [EFI Here](https://github.com/jonktsui/hackintosh)
@@ -123,6 +114,15 @@ Major kudo's to [HackSlav][HackSlav] and the other contributors to writing up th
     │   └── OpenShell.efi
     └── config.plist
 ```
+
+
+## Helpful Links/Resources
+- [GenSMBIOS][GenSMBIOS] - Corp's script to generate SMBIOS, serial #, etc.
+- [OpenCore Vanilla Guide][OCGuide] written by [u/dracoflar][HackSlav] based on Corp's Guide
+- [ProperTree][ProperTree] - Corp's application to edit OpenCore config.plist with EXTREME ease
+- [SSDTime][SSDTime] - Corp's Script to create SSDT's
+- [USBMap][USBMap] - Corp's Script to create SSDT and Map the USB Ports (ensuring under the 15 port limit)
+- The Reddit page ([r/hackintosh][reddithack]) as well as the Discord channel (link in Reddit page) has been very helpful.
 
 
 [Previous Build]: https://jonktsui.github.io/blog/tech/building-a-hackintosh/
