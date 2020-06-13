@@ -9,9 +9,9 @@ tags:
 ---
 
 
-## Diet
-
 Continuing on from my [previous post][corgipost1], here's some more info about diet.
+
+## Diet
 
 ### How much food?
 
