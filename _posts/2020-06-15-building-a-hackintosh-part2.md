@@ -74,6 +74,93 @@ Major kudo's to [HackSlav][HackSlav] and the other contributors to writing up th
 - [USBMap][USBMap] - Corp's Script to create SSDT and Map the USB Ports (ensuring under the 15 port limit)
 - The Reddit page ([r/hackintosh][reddithack]) as well as the Discord channel (link in Reddit page) has been very helpful.
 
+# EFI Folder structure
+
+```
+/EFI/
+├── APPLE
+│   └── EXTENSIONS
+│       └── Firmware.scap
+├── BOOT
+│   └── BOOTx64.efi
+└── OC
+    ├── ACPI
+    │   ├── SSDT-AWAC.aml
+    │   ├── SSDT-EC.aml
+    │   ├── SSDT-PLUG.aml
+    │   ├── SSDT-PMC.aml
+    │   └── SSDT-USBX.aml
+    ├── Bootstrap
+    │   └── Bootstrap.efi
+    ├── Drivers
+    │   ├── AudioDxe.efi
+    │   ├── CrScreenshotDxe.efi
+    │   ├── HfsPlus.efi
+    │   └── OpenRuntime.efi
+    ├── Kexts
+    │   ├── AppleALC.kext
+    │   │   └── Contents
+    │   │       ├── Info.plist
+    │   │       └── MacOS
+    │   │           └── AppleALC
+    │   ├── IntelBluetoothFirmware.kext
+    │   │   └── Contents
+    │   │       ├── Info.plist
+    │   │       └── MacOS
+    │   │           └── IntelBluetoothFirmware
+    │   ├── IntelMausiEthernet.kext
+    │   │   └── Contents
+    │   │       ├── Info.plist
+    │   │       └── MacOS
+    │   │           └── IntelMausiEthernet
+    │   ├── Lilu.kext
+    │   │   └── Contents
+    │   │       ├── Info.plist
+    │   │       └── MacOS
+    │   │           └── Lilu
+    │   ├── NVMeFix.kext
+    │   │   └── Contents
+    │   │       ├── Info.plist
+    │   │       └── MacOS
+    │   │           └── NVMeFix
+    │   ├── SMCLightSensor.kext
+    │   │   └── Contents
+    │   │       ├── Info.plist
+    │   │       └── MacOS
+    │   │           └── SMCLightSensor
+    │   ├── SMCProcessor.kext
+    │   │   └── Contents
+    │   │       ├── Info.plist
+    │   │       └── MacOS
+    │   │           └── SMCProcessor
+    │   ├── SMCSuperIO.kext
+    │   │   └── Contents
+    │   │       ├── Info.plist
+    │   │       └── MacOS
+    │   │           └── SMCSuperIO
+    │   ├── USBMap.kext
+    │   │   └── Contents
+    │   │       └── Info.plist
+    │   ├── VirtualSMC.kext
+    │   │   └── Contents
+    │   │       ├── Info.plist
+    │   │       └── MacOS
+    │   │           └── VirtualSMC
+    │   └── WhateverGreen.kext
+    │       └── Contents
+    │           ├── Info.plist
+    │           └── MacOS
+    │               └── WhateverGreen
+    ├── OpenCore.efi
+    ├── Resources
+    │   ├── Audio
+    │   ├── Font
+    │   ├── Image
+    │   └── Label
+    ├── Tools
+    │   └── OpenShell.efi
+    └── config.plist
+```
 
 
 [Previous Build]: https://jonktsui.github.io/blog/tech/building-a-hackintosh/
