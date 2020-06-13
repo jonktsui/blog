@@ -12,7 +12,6 @@ tags:
   - opencore
 ---
 
-## Introduction
 So before I get into the details of my build, this is a fun project for myself to work on as a hobby. In no way shape or form do I sell this device to anyone.
 
 There are many tools out there as well that "bundle" installation however, there are so many different configurations for your hardware that it is nearly impossible to have everything setup the exact same way. This is why I'd recommend following the [Clover Vanilla Guide][VanillaGuide] (if you're starting out for the first time) or the [OpenCore Vanilla Guide][OCGuide] (recommended after building and understanding your working Hackintosh on Clover).

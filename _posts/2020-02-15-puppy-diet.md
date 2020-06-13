@@ -1,5 +1,5 @@
 ---
-title: "So you want a puppy"
+title: "So you want a puppy part 2 (diet)"
 date: 2020-01-15T15:34:30-04:00
 categories:
   - personal
