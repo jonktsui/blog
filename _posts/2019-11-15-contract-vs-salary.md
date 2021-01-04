@@ -48,7 +48,7 @@ There are a couple ways to register for your own corporation (see below for ways
 3. Get confirmation that my corporation was created (yay!)
 4. Opened a TD Business account. But closed it shortly afterwards due to $20 a month fee for services I really didn't need.
 5. Opened a BMO e-Business account.
-6. Opened a Business Trading account (used [Questrade][QuestradeReferral])
+6. Opened a Business Trading account (used Questrade Q Pass Key: 316323986417738)
 7. As recommended by my Accountant, I opened [QuickBooks][QBReferral] to manage my finances.
 
 
@@ -166,7 +166,7 @@ If you would like to take money out of the corporate to use at your leisure, you
 [NuansCanada]:(https://www.nuans.com/eic/site/075.nsf/eng/home)
 [FPIncomeSprinkling]:(https://business.financialpost.com/personal-finance/taxes/here-are-your-income-splitting-options-now-that-the-private-corporation-avenue-is-dead)
 [QuestradeReferral]:(???)
-[QBReferral]:()
+[QBReferral]:(https://refer.quickbooks.ca/s/jontsui)
 [html5up]:(https://html5up.net/)
 [Netlify]:(https://www.netlify.com/)
 [BMO]:(https://www.bmo.com/main/business/accounts/ebusiness-plan/)
